@@ -1,0 +1,46 @@
+
+{
+    "compilerOptions": {
+      "noImplicitAny": false,
+      "target": "esnext",                      
+      "module": "commonjs",                    
+      "lib": ["es2017"],                       
+      "allowJs": true,                                 
+      "jsx": "react-native",                          
+      "noEmit": true,                                
+      "isolatedModules": true,                  
+      "strict": true,                         
+      "moduleResolution": "node",                               
+      "allowSyntheticDefaultImports": true,    
+      "esModuleInterop": true,    
+      "baseUrl": "./",
+      "paths": {
+        "api": ["./src/api/index.ts"],
+        "api/*": ["./src/api/*"],
+       
+        "components": ["./src/components/index.tsx"],
+        "components/*": ["./src/components/*"],
+        // "store": ["src/store/index.ts"],
+        // "store/*": ["./src/store/*"],
+        "navigation": ["src/navigation/app-navigator/index.tsx"],
+        "navigation/*": ["./src/navigation/*"],
+        // "config/*": ["./src/config/*"],
+        "theme": ["./src/theme/index.tsx"],
+        "theme/*": ["./src/theme/*"],
+        "assets": ["./src/assets/index.tsx"],
+        "assets/*": ["./src/assets/*"],
+        "screens": ["./src/screens/index.tsx"],
+        "screens/*": ["./src/screens/*"],
+        "constants": ["./src/constants/index.tsx"],
+        "constants/*": ["./src/constants/*"],
+        "mock": ["./src/mock/index.tsx"],
+        "mock/*": ["./src/mock/*"],
+        },              
+      "skipLibCheck": false,                   
+      "resolveJsonModule": true                
+    },
+    "exclude": [
+      "node_modules", "babel.config.js", "metro.config.js", "jest.config.js"
+    ]
+  }
+  
