@@ -17,7 +17,7 @@ The application is simple and user friendly. It fetches Github repos after searc
 
 ## Visual Representation
 
-![311428021_857916271867554_2570922846910066315_n](https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg)
+![311428021_857916271867554_2570922846910066315_n](https://user-images.githubusercontent.com/93868173/196001824-8dc59ffc-3a81-4691-b605-7548d44b3cb6.jpg width="200" height="400")
 ![309364929_1305767923556283_1368737681602953925_n](https://user-images.githubusercontent.com/93868173/196001713-d73dc9bc-f256-49eb-b52d-e2dd42589c6a.jpg)
 ![311423271_517914820345724_3205203527252751120_n](https://user-images.githubusercontent.com/93868173/196001742-b3bbf0a5-3376-4a9b-a23c-b200fe52af6e.jpg)
 ![310771532_519225083383425_8273612611265940519_n](https://user-images.githubusercontent.com/93868173/196001746-9b990caf-6686-450e-a79a-9f27b8394d12.jpg)
