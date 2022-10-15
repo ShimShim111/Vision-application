@@ -6,10 +6,10 @@ Application that fetches data from Github API
 
 Project is created with:
 
-React Native
-React Native Navigation
-TypeScript
-Redux Tool Kit to handle state management
+- React Native
+- React Native Navigation
+- TypeScript
+- Redux Tool Kit to handle state management
 
 ## Features
 
