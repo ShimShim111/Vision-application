@@ -1,4 +1,4 @@
-# Project Title
+# Vision Application
 
 Application that fetches data from Github API. APK Demo: https://drive.google.com/file/d/1r4Xb8SzjSAcYrvQb-50gtUV9sOIXNp4j/view
 
