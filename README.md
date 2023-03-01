@@ -1,6 +1,8 @@
 # Vision Application
 
-Application that fetches data from Github API. APK Demo: https://drive.google.com/file/d/1r4Xb8SzjSAcYrvQb-50gtUV9sOIXNp4j/view
+Application that fetches data from Github API. 
+- APK Demo: https://drive.google.com/file/d/1r4Xb8SzjSAcYrvQb-50gtUV9sOIXNp4j/view
+- Required Task : [Frontend Task (1).pdf](https://github.com/ahmedfarouk2000/Vision-application/files/10866297/Frontend.Task.1.pdf)
 
 ## Technologies
 
